@@ -1,7 +1,7 @@
 # Windstring-Firmware
 Most Recent updates for Ear Modular Windstring's firmware
 
-Product page: https://www.earmodular.com/windstring
+Product page: https://www.earmodular.com/eurorack/windstring
 
 # V253 Functions
 
